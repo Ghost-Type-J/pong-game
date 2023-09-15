@@ -1,6 +1,9 @@
 from turtle import Turtle
 
+
 MOVE_DISTANCE = 30
+
+
 class Paddle(Turtle):
 
     def __init__(self, position):
